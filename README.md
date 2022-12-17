@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=MINKYU%20PARK&fontSize=90)
+### Welcome to Minkyu's GitHub!
 <!--
 **kyle970320/kyle970320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
